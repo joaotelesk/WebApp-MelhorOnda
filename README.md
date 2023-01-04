@@ -84,13 +84,47 @@ Siga os passos e inclua as informações abaixo:
 
 ### 😎 Concluído
 
-- em construção
+- back-end
+
+  - Setup Typescript
+  - eslint
+  - Jest + Typescript
+  - Setup de testes de integração com Supertest + Types
+  - Setup do servidor Node.js com express
 
 <br />
 
 ### 😎 Falta finalizar
 
-- em construção
+- back-end
+
+  - Integração com serviço externo
+  - Design da API
+  - Tratação de erros
+  - Configuração dinamica com node-config
+  - Jest Mock + Typescript
+  - Criação do servico de Forecast - core da API
+  - criação do modulo de Usuarios
+  - Integração com MongoDB (Mongoose)
+  - testes de integração com nock
+  - Validação com Mongoose
+  - Encriptação de senha com bcrypt
+  - Unificação dos Controllers
+  - Json Web Tokeb (Gerando e validando tokens)
+  - Express middlewares
+  - Typescript module augmentation
+  - Setup do ambiente de produção para deploy
+  - Setup do Github Workflows(rodar os testes e fazer o deploy automaticamente)
+  - Logger Utilizando pino
+  - Graceful shutdown
+  - Formatação de erros da API
+  - Calculo do rating(estrelinhas para cada praia)
+  - Rate limit
+  - Documentação com Open API
+    <br /><br />
+
+- front-end
+  - em construção
 
 ---
 
