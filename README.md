@@ -91,13 +91,6 @@ Siga os passos e inclua as informações abaixo:
   - Jest + Typescript
   - Setup de testes de integração com Supertest + Types
   - Setup do servidor Node.js com express
-
-<br />
-
-### 😎 Falta finalizar
-
-- back-end
-
   - Integração com serviço externo
   - Design da API
   - Tratação de erros
@@ -105,6 +98,13 @@ Siga os passos e inclua as informações abaixo:
   - Jest Mock + Typescript
   - Criação do servico de Forecast - core da API
   - criação do modulo de Usuarios
+
+<br />
+
+### 😎 Falta finalizar
+
+- back-end
+
   - Integração com MongoDB (Mongoose)
   - testes de integração com nock
   - Validação com Mongoose
