@@ -97,7 +97,7 @@ Siga os passos e inclua as informações abaixo:
   - Configuração dinamica com node-config
   - Jest Mock + Typescript
   - Criação do servico de Forecast - core da API
-  - criação do modulo de Usuarios
+  - Integração com MongoDB (Mongoose)
 
 <br />
 
@@ -105,11 +105,11 @@ Siga os passos e inclua as informações abaixo:
 
 - back-end
 
-  - Integração com MongoDB (Mongoose)
   - testes de integração com nock
   - Validação com Mongoose
   - Encriptação de senha com bcrypt
   - Unificação dos Controllers
+  - criação do modulo de Usuarios
   - Json Web Tokeb (Gerando e validando tokens)
   - Express middlewares
   - Typescript module augmentation
